@@ -1,0 +1,19 @@
+# Django Related Files
+*/migrations/
+
+# Project Releated Files
+static_deploy/
+
+# IDE Related Files
+.idea/
+.fandogh/
+
+# Python Related Files
+*.pyc
+*/__pycache__/
+
+# Environments Related Files
+venv/
+
+# Database
+db.sqlite3

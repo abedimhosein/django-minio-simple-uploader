@@ -1,0 +1,5 @@
+.idea/
+.fandogh/
+db.sqlite3
+Dockerfile
+.dockerignore
